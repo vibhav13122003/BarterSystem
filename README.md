@@ -38,4 +38,4 @@ Make sure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vibhav13122003/barter-system.git
+   git clone https://github.com/vibhav13122003/barter-system
