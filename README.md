@@ -48,3 +48,10 @@ Make sure you have the following installed on your local machine:
 
         cd client
         npm install
+   
+5. Set Up Environment Variables:
+   
+         MONGO_URI=your-mongodb-connection-string
+         JWT_SECRET=your-jwt-secret
+         PORT=8000
+
