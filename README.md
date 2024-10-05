@@ -55,3 +55,14 @@ Make sure you have the following installed on your local machine:
          JWT_SECRET=your-jwt-secret
          PORT=8000
 
+ **Start the Application**:  
+- To start the backend server, navigate to the server directory and run:
+  ```
+  npm run dev
+  ```
+
+- In a new terminal, navigate to the client directory and run:
+  ```
+  npm start
+  ```
+
