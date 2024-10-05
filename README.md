@@ -39,3 +39,12 @@ Make sure you have the following installed on your local machine:
 
    ```bash
    git clone https://github.com/vibhav13122003/BarterSystem
+2. Install Server Dependencies:
+   
+       cd backend
+       npm install
+
+3. Install Front-end Dependencies:
+
+        cd client
+        npm install
