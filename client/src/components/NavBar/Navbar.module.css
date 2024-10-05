@@ -33,7 +33,9 @@
   display: flex;
   position: sticky;
   top: 0;
-  background: linear-gradient(107deg, rgba(17, 22, 91, 0.9) 32%, rgba(75, 9, 85, 0.9)52%);
+background: linear-gradient(107deg, #087e8b 81%, #a3b5c0 10%);
+
+
   z-index: 100;
   justify-content: space-between;
   align-items: center;

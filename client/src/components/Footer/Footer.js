@@ -22,7 +22,7 @@ export default function Footer() {
                     </div>
 
                     <p style={{ fontSize: "0.8rem" }}>
-                        Copyright @ 2022 Barter, Inc - All Rights Reserved
+                        Copyright @ 2024 Barter, Inc - All Rights Reserved
                     </p>
                 </div>
             </div>

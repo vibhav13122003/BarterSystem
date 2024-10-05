@@ -1,6 +1,6 @@
 import { React, useEffect, useRef, useState } from "react";
 import styles from './SlideShow.module.css';
-import Slider1 from '../../../assets/slider1.jpg'
+import Slider1 from '../../../assets/slider1.png'
 import Slider2 from '../../../assets/slider2.png'
 import Slider3 from '../../../assets/slider3.jpg'
 
