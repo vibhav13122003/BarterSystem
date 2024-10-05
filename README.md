@@ -63,6 +63,6 @@ Make sure you have the following installed on your local machine:
 
 - In a new terminal, navigate to the client directory and run:
   ```
-  npm start
+  npm run start
   ```
 
